@@ -1,4 +1,4 @@
-# WawiraM254
+# DJANGO PROJECT
 A new Python virtual environment 
 
 
